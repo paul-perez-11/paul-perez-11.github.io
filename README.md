@@ -1,6 +1,6 @@
 # My Personal Website
 
-[Link](https://paul-perez-11.github.io)
+[Link](https://pauljoelperez.dev/)
 
 - Contains all my projects
 - GitHub repos are linked
